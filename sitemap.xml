@@ -3,14 +3,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.robocity2030.org/RoboCity_ROS2_Summer_School_2026/index.html</loc>
-    <lastmod>2026-02-03</lastmod>
+    <lastmod>2026-02-16</lastmod>
   </url>
   <url>
     <loc>https://www.robocity2030.org/RoboCity_ROS2_Summer_School_2026/registration.html</loc>
-    <lastmod>2026-02-03</lastmod>
+    <lastmod>2026-02-16</lastmod>
   </url>
   <url>
     <loc>https://www.robocity2030.org/RoboCity_ROS2_Summer_School_2026/detailed_program.html</loc>
     <lastmod>2026-02-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.robocity2030.org/RoboCity_ROS2_Summer_School_2026/hotels_restaurants.html</loc>
+    <lastmod>2026-02-16</lastmod>
   </url>
 </urlset>
