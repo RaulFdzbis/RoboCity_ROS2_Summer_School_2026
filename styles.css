@@ -72,6 +72,28 @@ header {
   display: block;
 }
 
+.header-partners {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0.15rem 1.5rem 0.9rem 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1.25rem;
+}
+
+.header-partners img {
+  height: 56px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+
+@media (max-width: 520px) {
+  .header-partners img { height: 48px; }
+}
+
 main {
   max-width: var(--maxw);
   margin: 0 auto;
